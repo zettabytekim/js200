@@ -12,7 +12,7 @@ var isHometown = function(h, name) {
         console.log(`${h.name} 의 고향은 ${h.city} ${h.place} 입니다.`);
         return true;
     }
-    return false;
+    return false;₩₩
 }
 
 var h;
